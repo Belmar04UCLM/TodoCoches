@@ -1,0 +1,22 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.header {
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+.content {
+    background-color: #f8f9fa;
+}
+
+.button {
+    background-color: #e9ecef;
+    color: #212529;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 5px;
+}
